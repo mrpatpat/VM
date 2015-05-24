@@ -1,3 +1,4 @@
+//JAVA Virtual Machine
 public class VirtualMachine {
 
 	public static int REGS = 16;
